@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/src/ChatgptSdk/.vs/ChatgptSdk
+/src/ChatgptSdk/ChatgptSdk/bin/Debug/net9.0
+/src/ChatgptSdk/ChatgptSdk/obj
+/src/ChatgptSdk/ChatgptSdk.Lib/bin/Debug/net9.0
+/src/ChatgptSdk/ChatgptSdk.Lib/obj
